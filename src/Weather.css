@@ -25,8 +25,7 @@
 }
 .Weather img {
   float: left;
-  margin-right: 10px;
-  width: 56px;
+  height: 72px;
 }
 .Weather .temperature {
   color: rgb(32 33 36);
@@ -40,6 +39,6 @@
   font-weight: 400;
   position: relative;
   top: -22px;
-  margin-left: 5px;
+  margin-left: 3px;
   line-height: 1;
 }
