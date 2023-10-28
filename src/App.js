@@ -11,7 +11,7 @@ function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://www.shecodes.io/graduates/65257-valeria-markish"
+            href="https://github.com/valeria-markish"
             target="_blank"
             rel="noreferrer"
           >
