@@ -1,0 +1,16 @@
+.temperature {
+  color: rgb(32, 33, 36);
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 56px;
+  margin-left: 10px;
+}
+.unit {
+  color: rgb(33 33 33);
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  top: -22px;
+  margin-left: 3px;
+  line-height: 1;
+}

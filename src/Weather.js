@@ -10,7 +10,7 @@ export default function Weather(props) {
     setWeatherData({
       ready: true,
       city: response.data.city,
-      temperature: Math.round(response.data.temperature.current),
+      temperature: response.data.temperature.current,
       humidity: Math.round(response.data.temperature.humidity),
       pressure: response.data.temperature.pressure,
       wind: Math.round(response.data.wind.speed),
