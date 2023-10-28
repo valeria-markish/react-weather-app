@@ -23,10 +23,7 @@
   line-height: 20px;
   list-style: none;
 }
-.Weather canvas {
-  float: left;
-  height: 60px;
-}
+
 .Weather .temperature {
   color: rgb(32, 33, 36);
   font-weight: 400;
