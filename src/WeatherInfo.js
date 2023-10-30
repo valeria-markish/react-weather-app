@@ -22,11 +22,11 @@ export default function WeatherInfo(props) {
             setUnit={props.setUnit}
           />
         </div>
-        <div className="col-6">
+        <div className="col-6 propieties">
           <ul>
             <li>Humidity: {props.info.humidity}%</li>
-            <li>Pressure: {props.info.pressure} hPa</li>
             <li>Wind: {props.info.wind} km/h</li>
+            <li>Pressure: {props.info.pressure} hPa</li>
           </ul>
         </div>
       </div>
